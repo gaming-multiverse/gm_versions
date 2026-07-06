@@ -8,11 +8,12 @@
     ]
   },
   "gm_inventory": {
-    "version": "1.1.8",
-    "description": "Bump version from 1.1.7 to 1.1.8",
+    "version": "1.1.9",
+    "description": "Minor script qol fixes",
     "urls": [
-      { "url": "https://github.com/gaming-multiverse/gm_inventory", "title": "Github" },
-      { "url": "https://gamingmultiverse.gr/store/gm-inventory", "title": "Store" }
+      { "url": "https://github.com/gaming-multiverse/gm_inventory/releases/tag/1.1.9", "title": "Github Release" },
+      { "url": "https://gamingmultiverse.gr/store/gm-inventory", "title": "Store Page" },
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
     ]
   }
 }
