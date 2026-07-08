@@ -32,5 +32,14 @@
       { "url": "", "title": "Store Page" },
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
     ]
+  },
+  "gm_dispatch": {
+    "version": "1.0.2",
+    "description": "Minor Fixes & Added version checks | Important Update",
+    "urls": [
+      { "url": "https://gamingmultiverse.gr/store/dispatch", "title": "Store Page" },
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
+      { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
+    ]
   }
 }
