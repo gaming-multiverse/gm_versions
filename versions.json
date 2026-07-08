@@ -24,5 +24,13 @@
       { "url": "https://gamingmultiverse.gr/store/gm-weapons", "title": "Store Page" },
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
     ]
+  },
+  "gm_jail": {
+    "version": "1.0.0",
+    "description": "Initial Release",
+    "urls": [
+      { "url": "", "title": "Store Page" },
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
+    ]
   }
 }
