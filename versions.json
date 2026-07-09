@@ -34,8 +34,8 @@
     ]
   },
   "gm_jail": {
-    "version": "1.0.0",
-    "description": "Initial Release",
+    "version": "1.0.2",
+    "description": "Added new jaill menu | Removed debug code",
     "urls": [
       { "url": "", "title": "Store Page" },
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
