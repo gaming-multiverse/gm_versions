@@ -7,6 +7,14 @@
       { "url": "https://gamingmultiverse.gr/store/gm-mdt", "title": "Store" }
     ]
   },
+  "gm_bounty": {
+    "version": "1.0.0",
+    "description": "Initial Release",
+    "urls": [
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord" },
+      { "url": "https://gamingmultiverse.gr/store/gm-bounty", "title": "Store" }
+    ]
+  },
   "gm_inventory": {
     "version": "1.1.9",
     "description": "Minor script qol fixes",
