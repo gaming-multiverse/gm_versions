@@ -5,6 +5,7 @@
     "urls": [
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord" },
       { "url": "https://gamingmultiverse.gr/store/gm-mdt", "title": "Store" }
+      { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
     ]
   },
   "gm_bounty": {
@@ -13,6 +14,7 @@
     "urls": [
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord" },
       { "url": "https://gamingmultiverse.gr/store/gm-bounty", "title": "Store" }
+      { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
     ]
   },
   "gm_inventory": {
@@ -52,6 +54,15 @@
     ]
   },
   "gm_details": {
+    "version": "1.0.0",
+    "description": "Initial Release",
+    "urls": [
+      { "url": "https://gamingmultiverse.gr/store", "title": "Store Page" },
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
+      { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
+    ]
+  },
+  "gm_enhanced_dmg": {
     "version": "1.0.0",
     "description": "Initial Release",
     "urls": [
