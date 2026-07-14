@@ -70,5 +70,14 @@
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
       { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
     ]
+  },
+  "gm_public_board": {
+    "version": "1.0.0",
+    "description": "Initial Release",
+    "urls": [
+      { "url": "https://gamingmultiverse.gr/store", "title": "Store Page" },
+      { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
+      { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
+    ]
   }
 }
