@@ -36,7 +36,7 @@
     ]
   },
   "gm_jail": {
-    "version": "1.0.2",
+    "version": "1.0.4",
     "description": "Added new jaill menu | Removed debug code",
     "urls": [
       { "url": "https://gamingmultiverse.gr/store/gm-jail", "title": "Store Page" },
