@@ -54,8 +54,8 @@
     ]
   },
   "gm_details": {
-    "version": "1.0.2",
-    "description": "Add Discord Webhooks | Fixed only 1 word issue",
+    "version": "1.0.3",
+    "description": "Add locales | Add Local Time instead of UTC",
     "urls": [
       { "url": "https://gamingmultiverse.gr/store/gm-details", "title": "Store Page" },
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord Support" },
