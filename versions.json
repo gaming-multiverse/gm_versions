@@ -4,7 +4,7 @@
     "description": "Officer management, weapon control & self-registration",
     "urls": [
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord" },
-      { "url": "https://gamingmultiverse.gr/store/gm-mdt", "title": "Store" }
+      { "url": "https://gamingmultiverse.gr/store/gm-mdt", "title": "Store" },
       { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
     ]
   },
@@ -13,7 +13,7 @@
     "description": "Initial Release",
     "urls": [
       { "url": "https://discord.gg/ERmEPsafmR", "title": "Discord" },
-      { "url": "https://gamingmultiverse.gr/store/gm-bounty", "title": "Store" }
+      { "url": "https://gamingmultiverse.gr/store/gm-bounty", "title": "Store" },
       { "url": "https://portal.cfx.re", "title": "Download from CFX Portal" },
     ]
   },
